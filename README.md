@@ -4,7 +4,7 @@ I’m Ahmed Tamer, an Electronics and Communication Engineer with a passion for 
 <br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.shouman.396905) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tamer-83406a273/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](ahmedtamerahmed443@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.shouman.396905) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tamer-83406a273/)
 
 <br>
 

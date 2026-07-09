@@ -1,5 +1,12 @@
-# 💫 About Me:
-I’m Ahmed Tamer, an Electronics and Communication Engineer with a passion for AI and its transformative applications. I focus on creating innovative, data-driven solutions that tackle real-world challenges and push the boundaries of technology.
+# About Me:
+Electronics and Communication Engineering student turned AI & Data Science builder, based in Cairo, Egypt. I care about clean pipelines, well-modeled data, and dashboards that people actually use.
+
+
+- Currently deepening my skills in Deep Learning and Computer Vision (CNNs) through an ongoing AI Diploma
+- Trained in AI, ML, and data science fundamentals through the Digital Egypt Pioneers Initiative (DEPI)
+- Comfortable across the full data stack from SQL and Python to Power BI dashboards
+
+Reach me at my linkedin
 
 <br>
 

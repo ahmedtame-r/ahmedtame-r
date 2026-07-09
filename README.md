@@ -1,10 +1,9 @@
 # About Me:
-Electronics and Communication Engineering student turned AI & Data Science builder, based in Cairo, Egypt. I care about clean pipelines, well-modeled data, and dashboards that people actually use.
-
-
-- Currently deepening my skills in Deep Learning and Computer Vision (CNNs) through an ongoing AI Diploma
-- Trained in AI, ML, and data science fundamentals through the Digital Egypt Pioneers Initiative (DEPI)
-- Comfortable across the full data stack from SQL and Python to Power BI dashboards
+Electronics and Communication Engineering student passionate about Data Science, Machine Learning, and Business Intelligence. I turn raw data into clear, actionable insights through data cleaning, EDA, predictive modeling, and dashboard design.
+ 
+My hands-on experience spans Python, SQL, and Power BI from building data warehouses and BI pipelines to developing deep learning models and delivering analytics dashboards for real-world business problems.
+ 
+I completed intensive data science training with the Digital Egypt Pioneers Initiative (DEPI), and I'm currently deepening my skills in Deep Learning and Computer Vision through an ongoing AI Diploma. Open to opportunities in Data Analytics, Data Science, and Machine Learning.
 
 Reach me at my linkedin
 

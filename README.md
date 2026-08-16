@@ -52,6 +52,10 @@ Open to **internships, freelance opportunities, collaborations, and entry-level 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -242,7 +246,20 @@ An AI-powered procurement assistant designed to automate enterprise laptop resea
 
 ---
 
-# 📌 GitHub Profile
+# 💭 Random Dev Quote
+
+<div align="center">
+
+<!-- QUOTE:START -->
+### "The only way to do great work is to love what you do."
+**— Steve Jobs**
+<!-- QUOTE:END -->
+
+</div>
+
+---
+
+# 📌 Find Me Online
 
 <div align="center">
 
@@ -252,6 +269,14 @@ An AI-powered procurement assistant designed to automate enterprise laptop resea
 
 <a href="https://www.linkedin.com/in/ahmed-tamer-83406a273/">
 <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Tamer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+<img src="https://img.shields.io/badge/Kaggle-Ahmed%20Tamer-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="mailto:ahmedtamerahmed443@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -268,6 +293,10 @@ An AI-powered procurement assistant designed to automate enterprise laptop resea
 
 <a href="https://www.linkedin.com/in/ahmed-tamer-83406a273/">
 <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+<img src="https://img.shields.io/badge/View%20My%20Kaggle%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="mailto:ahmedtamerahmed443@gmail.com">

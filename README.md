@@ -28,17 +28,19 @@ I'm particularly interested in building **end-to-end AI and data solutions** tha
 
 ---
 
-## 🎯 Open To
+## 🎯 Currently Looking For
 
 **Data Analytics • Data Science • Machine Learning • Artificial Intelligence • Business Intelligence**
+
+Open to **internships, freelance opportunities, collaborations, and entry-level roles** where I can contribute to real-world data and AI projects.
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/ahmed-tamer-83406a273/" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-tamer-83406a273/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -46,7 +48,7 @@ I'm particularly interested in building **end-to-end AI and data solutions** tha
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/ahmed.shouman.396905/" target="_blank">
+<a href="https://www.facebook.com/ahmed.shouman.396905/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -80,7 +82,7 @@ I'm particularly interested in building **end-to-end AI and data solutions** tha
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-**ETL • Data Warehousing • Star Schema • Dimensional Modeling • SQL**
+**SQL • ETL • Data Warehousing • Star Schema • Dimensional Modeling**
 
 ### 🤖 Machine Learning & Deep Learning
 
@@ -101,6 +103,7 @@ I'm particularly interested in building **end-to-end AI and data solutions** tha
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
@@ -113,13 +116,15 @@ An end-to-end analytics and BI solution covering **10 major European cities**.
 
 ### Highlights
 
-- Built a **Bronze → Silver → Gold** data pipeline
-- Processed and transformed **50K+ Airbnb listings**
-- Designed a **SQL Server Data Warehouse**
-- Implemented a **Star Schema**
-- Built interactive **Power BI dashboards**
-- Performed pricing, availability, host, and property analysis
-- Applied data cleaning, transformation, and enrichment techniques
+- 📊 Processed and analyzed **50K+ Airbnb listings**
+- 🥉 Built a **Bronze → Silver → Gold** data pipeline
+- 🧹 Performed extensive data cleaning and transformation
+- 🕷️ Used Selenium for data enrichment and web scraping
+- 🗄️ Designed a **SQL Server Data Warehouse**
+- ⭐ Implemented a **Star Schema**
+- 📈 Built interactive **Power BI dashboards**
+- 🔎 Analyzed pricing, availability, hosts, properties, and reviews
+- 📐 Applied dimensional modeling and business-oriented KPIs
 
 **Tech:** Python • Pandas • Selenium • SQL Server • Power BI • DAX
 
@@ -127,20 +132,21 @@ An end-to-end analytics and BI solution covering **10 major European cities**.
 
 ## 🛣️ Road Damage Detection
 
-A Computer Vision system for detecting and localizing different types of road damage.
+A Computer Vision system for detecting and localizing different types of road damage using YOLO.
 
 ### Highlights
 
-- Implemented object detection using **YOLO**
-- Trained and compared multiple YOLO models
-- Evaluated models using:
+- 🤖 Implemented object detection using **YOLO**
+- 🧠 Trained and compared multiple YOLO models
+- 📊 Evaluated models using:
   - mAP
   - Precision
   - Recall
   - IoU
   - FPS
   - Model Size
-- Worked with real-world annotated image datasets
+- 🖼️ Worked with annotated road-damage datasets
+- ⚡ Compared model performance and inference speed
 
 **Tech:** Python • YOLO • PyTorch • OpenCV • Computer Vision
 
@@ -148,18 +154,19 @@ A Computer Vision system for detecting and localizing different types of road da
 
 ## 🎓 AI-Based Cheating Detection System
 
-An AI-powered monitoring system designed to identify potential cheating behavior during exams.
+An AI-powered monitoring system designed to detect potential cheating behavior during exams.
 
 ### Highlights
 
-- Person and mobile phone detection using **YOLO**
-- Object tracking using **ByteTrack**
-- Proximity-based behavior analysis
-- Frame-persistence logic for reliable alerts
-- Automatic incident screenshot capture
-- Desktop monitoring interface
-- Firebase integration for incident storage
-- Local fallback storage for reliability
+- 👤 Person detection using YOLO
+- 📱 Mobile phone detection using YOLO
+- 🎯 Object tracking using **ByteTrack**
+- 📏 Proximity-based behavior analysis
+- ⏱️ Frame-persistence logic for reliable alerts
+- 📸 Automatic incident screenshot capture
+- 🖥️ Desktop monitoring interface using Tkinter
+- ☁️ Firebase Firestore and Storage integration
+- 💾 Local JSON fallback storage
 
 **Tech:** Python • YOLO • OpenCV • ByteTrack • Tkinter • Firebase
 
@@ -167,16 +174,17 @@ An AI-powered monitoring system designed to identify potential cheating behavior
 
 ## 🤖 Multi-Agent Procurement Assistant
 
-An AI-powered procurement assistant designed to automate enterprise laptop research and comparison.
+An AI-powered procurement assistant designed to automate enterprise laptop research, comparison, and recommendation.
 
 ### Highlights
 
-- Built a multi-agent workflow using **CrewAI**
-- 🔎 Search Agent for product discovery
-- 🌐 Scraping Agent for collecting product information
-- ⚖️ Comparison Agent using weighted scoring
-- 📄 Report Agent for generating procurement reports
-- Automated product evaluation and recommendation
+- 🔎 **Search Agent** for product discovery
+- 🌐 **Scraping Agent** for collecting product information
+- ⚖️ **Comparison Agent** using weighted scoring
+- 📄 **Report Agent** for generating procurement reports
+- 🤝 Multi-agent workflow using CrewAI
+- 📊 Automated product evaluation
+- 💡 Intelligent product recommendations
 
 **Tech:** Python • CrewAI • AI Agents • Web Scraping
 
@@ -186,13 +194,36 @@ An AI-powered procurement assistant designed to automate enterprise laptop resea
 
 <div align="center">
 
-<a href="https://github.com/ahmedtame-r">
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=ahmedtame-r&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Ahmed%20Tamer%27s%20GitHub%20Stats" />
-</a>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedtame-r&theme=radical"
+  width="100%"
+/>
 
-<a href="https://github.com/ahmedtame-r">
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedtame-r&layout=compact&langs_count=6&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" />
-</a>
+<br><br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedtame-r&theme=radical"
+  width="100%"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedtame-r&theme=radical"
+  width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -202,7 +233,26 @@ An AI-powered procurement assistant designed to automate enterprise laptop resea
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedtame-r&theme=react-dark&hide_border=true&area=true&custom_title=Ahmed%20Tamer%27s%20Contribution%20Graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedtame-r&theme=react-dark&hide_border=true&area=true&custom_title=Ahmed%20Tamer%27s%20Contribution%20Activity"
+  width="100%"
+/>
+
+</div>
+
+---
+
+# 📌 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/ahmedtame-r">
+<img src="https://img.shields.io/badge/GitHub-ahmedtame--r-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-tamer-83406a273/">
+<img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Tamer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
